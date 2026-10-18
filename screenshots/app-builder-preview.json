@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mürekkep",
+      "hasCanvas": false,
+      "bodyTextLen": 31,
+      "bodyTextHash": "c566597785d9e275b7221c1e3d12fab32e28832ec7d9025672b797f8d3851e3c",
+      "bodyTextPrefix": "Mürekkep Koç defterin açılıyor.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mürekkep",
+      "hasCanvas": false,
+      "bodyTextLen": 229,
+      "bodyTextHash": "64a4796b967347632cfe551f9f89fd3be70c0ac38ea30c836b5328ccf0d80399",
+      "bodyTextPrefix": "11. sınıf · Maarif · 2028 YKS Mürekkep Günlük masan, konu harita",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
